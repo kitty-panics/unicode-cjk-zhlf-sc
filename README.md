@@ -6,36 +6,47 @@
 
 ## 协作整理
 
-由于疏忽、参考资料有误等，码表可能会存在一些错误，
-如果你发现了错误请通过 [PR] 或者 [issues] 反馈给我。
+由于疏忽、参考资料有误等，码表可能会存在一些错误，如果你发现了错误请通过
+[Issues] 或者 [PR] 反馈给我。
 
++ 如果不会 Git 操作可在 [Issues] 中发起反馈。
 + 如果熟悉 Git 操作可在更正错误后发起 [PR]。
-+ 如果不会 Git 操作可在 [issues] 中发起反馈。
 
+[Issues]: https://github.com/kitty-panics/unicode-cjk-zhlf-sc/issues
 [PR]: https://github.com/kitty-panics/unicode-cjk-zhlf-sc/pulls
-[issues]: https://github.com/kitty-panics/unicode-cjk-zhlf-sc/issues
 
 ## 数据格式
 
 每个文件一行一字，以 Tab (制表符) 进行分割，如果某字存在多个编码时，以
-`,`(英文逗号)字符进行分割，例：
+`,` (英文逗号)字符进行分割，例：
 
 ```Text
+U+4E00	一	hv
+U+4E01	丁	hy
+U+4E04	丄	sh
+U+4E05	丅	hs
 ```
 
 ## 文件列表
 
 + [All.txt] (整合下面 CJK/A/B/C/D/E/F/G/Compatibility/Compatibility-Supplement)
-+ [CJK-Unified-Ideographs.txt] (中日韩统一表意文字) **【字符 `〇` 没有编码】**
-+ [CJK-Unified-Ideographs-Extension-A.txt] (中日韩统一表意文字扩展区 A) **【字符 `䶶䶷䶸䶹䶺䶻䶼䶽䶾䶿` 没有编码】**
-+ [CJK-Unified-Ideographs-Extension-B.txt] (中日韩统一表意文字扩展区 B) **【字符 `𪛗𪛘𪛙𪛚𪛛𪛜𪛝` 没有编码】**
++ [CJK-Unified-Ideographs.txt] (中日韩统一表意文字)
+    + 字符 `〇龦龧龨龩龪龫龬龭龮龯龰龱龲龳龴龵龶龷龸龹龺龻龼龽龾龿鿀鿁鿂鿃鿄鿅鿆鿇鿈鿉鿊鿋鿌鿍鿎鿏鿐鿑鿒鿓鿔鿕鿖鿗鿘鿙鿚鿛鿜鿝鿞鿟鿠鿡鿢鿣鿤鿥鿦鿧鿨鿩鿪鿫鿬鿭鿮鿯鿰鿱鿲鿳鿴鿵鿶鿷鿸鿹鿺鿻鿼` 没有编码
++ [CJK-Unified-Ideographs-Extension-A.txt] (中日韩统一表意文字扩展区 A)
+    + 字符 `䶶䶷䶸䶹䶺䶻䶼䶽䶾䶿` 没有编码
++ [CJK-Unified-Ideographs-Extension-B.txt] (中日韩统一表意文字扩展区 B)
+    + 字符 `𪛗𪛘𪛙𪛚𪛛𪛜𪛝` 没有编码
 + [CJK-Unified-Ideographs-Extension-C.txt] (中日韩统一表意文字扩展区 C)
 + [CJK-Unified-Ideographs-Extension-D.txt] (中日韩统一表意文字扩展区 D)
 + [CJK-Unified-Ideographs-Extension-E.txt] (中日韩统一表意文字扩展区 E)
-+ [CJK-Unified-Ideographs-Extension-F.txt] (中日韩统一表意文字扩展区 F) **【都没有编码】**
-+ [CJK-Unified-Ideographs-Extension-G.txt] (中日韩统一表意文字扩展区 G) **【都没有编码】**
-+ [CJK-Compatibility-Ideographs.txt] (中日韩兼容表意文字) **【都没有编码】**
-+ [CJK-Compatibility-Ideographs-Supplement.txt] (中日韩兼容表意文字增补) **【都没有编码】**
++ [CJK-Unified-Ideographs-Extension-F.txt] (中日韩统一表意文字扩展区 F)
+    + 都没有编码
++ [CJK-Unified-Ideographs-Extension-G.txt] (中日韩统一表意文字扩展区 G)
+    + 都没有编码
++ [CJK-Compatibility-Ideographs.txt] (中日韩兼容表意文字)
+    + 都没有编码
++ [CJK-Compatibility-Ideographs-Supplement.txt] (中日韩兼容表意文字增补)
+    + 都没有编码
 
 **注：**
 
