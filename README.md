@@ -31,22 +31,22 @@ U+4E05	丅	hs
 
 + [All.txt] (整合下面 CJK/A/B/C/D/E/F/G/Compatibility/Compatibility-Supplement)
 + [CJK-Unified-Ideographs.txt] (中日韩统一表意文字)
-    + 字符 `〇龦龧龨龩龪龫龬龭龮龯龰龱龲龳龴龵龶龷龸龹龺龻龼龽龾龿鿀鿁鿂鿃鿄鿅鿆鿇鿈鿉鿊鿋鿌鿍鿎鿏鿐鿑鿒鿓鿔鿕鿖鿗鿘鿙鿚鿛鿜鿝鿞鿟鿠鿡鿢鿣鿤鿥鿦鿧鿨鿩鿪鿫鿬鿭鿮鿯鿰鿱鿲鿳鿴鿵鿶鿷鿸鿹鿺鿻鿼` 没有编码
+    + [Basic 区没有编码的字]
 + [CJK-Unified-Ideographs-Extension-A.txt] (中日韩统一表意文字扩展区 A)
-    + 字符 `䶶䶷䶸䶹䶺䶻䶼䶽䶾䶿` 没有编码
+    + [A 区没有编码的字]
 + [CJK-Unified-Ideographs-Extension-B.txt] (中日韩统一表意文字扩展区 B)
-    + 字符 `𪛗𪛘𪛙𪛚𪛛𪛜𪛝` 没有编码
+    + [B 区没有编码的字]
 + [CJK-Unified-Ideographs-Extension-C.txt] (中日韩统一表意文字扩展区 C)
 + [CJK-Unified-Ideographs-Extension-D.txt] (中日韩统一表意文字扩展区 D)
 + [CJK-Unified-Ideographs-Extension-E.txt] (中日韩统一表意文字扩展区 E)
 + [CJK-Unified-Ideographs-Extension-F.txt] (中日韩统一表意文字扩展区 F)
-    + 都没有编码
+    + 所有字都没有编码
 + [CJK-Unified-Ideographs-Extension-G.txt] (中日韩统一表意文字扩展区 G)
-    + 都没有编码
+    + 所有字都没有编码
 + [CJK-Compatibility-Ideographs.txt] (中日韩兼容表意文字)
-    + 都没有编码
+    + 所有字都没有编码
 + [CJK-Compatibility-Ideographs-Supplement.txt] (中日韩兼容表意文字增补)
-    + 都没有编码
+    + 所有字都没有编码
 
 **注：**
 
@@ -64,6 +64,10 @@ U+4E05	丅	hs
 [CJK-Unified-Ideographs-Extension-G.txt]: CJK-Unified-Ideographs-Extension-G.txt
 [CJK-Compatibility-Ideographs.txt]: CJK-Compatibility-Ideographs.txt
 [CJK-Compatibility-Ideographs-Supplement.txt]: CJK-Compatibility-Ideographs-Supplement.txt
+
+[Basic 区没有编码的字]: 无码.CJK-Unified-Ideographs.txt
+[A 区没有编码的字]: 无码.CJK-Unified-Ideographs-Extension-A.txt
+[B 区没有编码的字]: 无码.CJK-Unified-Ideographs-Extension-B.txt
 
 ## 参考资料
 

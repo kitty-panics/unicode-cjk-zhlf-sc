@@ -1,0 +1,10 @@
+U+4DB6	䶶
+U+4DB7	䶷
+U+4DB8	䶸
+U+4DB9	䶹
+U+4DBA	䶺
+U+4DBB	䶻
+U+4DBC	䶼
+U+4DBD	䶽
+U+4DBE	䶾
+U+4DBF	䶿
